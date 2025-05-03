@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiEncode2.props" />
+</Project>

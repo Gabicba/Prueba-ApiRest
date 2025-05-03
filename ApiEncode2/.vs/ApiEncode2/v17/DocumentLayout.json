@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|c:\\users\\gabi\\desktop\\api proyecto encode\\apiencode2\\apiencode2\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|solutionrelative:apiencode2\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|c:\\users\\gabi\\desktop\\api proyecto encode\\apiencode2\\apiencode2\\dtos\\productocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|solutionrelative:apiencode2\\dtos\\productocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|c:\\users\\gabi\\desktop\\api proyecto encode\\apiencode2\\apiencode2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|solutionrelative:apiencode2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|c:\\users\\gabi\\desktop\\api proyecto encode\\apiencode2\\apiencode2\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|solutionrelative:apiencode2\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|c:\\users\\gabi\\desktop\\api proyecto encode\\apiencode2\\apiencode2\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|solutionrelative:apiencode2\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|c:\\users\\gabi\\desktop\\api proyecto encode\\apiencode2\\apiencode2\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|solutionrelative:apiencode2\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|c:\\users\\gabi\\desktop\\api proyecto encode\\apiencode2\\apiencode2\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|solutionrelative:apiencode2\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|c:\\users\\gabi\\desktop\\api proyecto encode\\apiencode2\\apiencode2\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|solutionrelative:apiencode2\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|c:\\users\\gabi\\desktop\\api proyecto encode\\apiencode2\\apiencode2\\profiles\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|solutionrelative:apiencode2\\profiles\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|c:\\users\\gabi\\desktop\\api proyecto encode\\apiencode2\\apiencode2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|solutionrelative:apiencode2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|c:\\users\\gabi\\desktop\\api proyecto encode\\apiencode2\\apiencode2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|solutionrelative:apiencode2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Migrations\\20250503153408_AgregarValidacionesCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiEncode2\\Migrations\\20250503153408_AgregarValidacionesCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Migrations\\20250503153132_AgregarValidacionesCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiEncode2\\Migrations\\20250503153132_AgregarValidacionesCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Migrations\\20250503152327_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiEncode2\\Migrations\\20250503152327_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Migrations\\20250503151552_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiEncode2\\Migrations\\20250503151552_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|c:\\users\\gabi\\desktop\\api proyecto encode\\apiencode2\\apiencode2\\apiencode2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3185BEA2-8FA9-4B94-BBFE-2DD52F7104EF}|ApiEncode2\\ApiEncode2.csproj|solutionrelative:apiencode2\\apiencode2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\DTOs\\ProductoCreateDTO.cs",
+              "RelativeDocumentMoniker": "ApiEncode2\\DTOs\\ProductoCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\DTOs\\ProductoCreateDTO.cs",
+              "RelativeToolTip": "ApiEncode2\\DTOs\\ProductoCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:36:45.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\DTOs\\CategoriaDTO.cs",
+              "RelativeDocumentMoniker": "ApiEncode2\\DTOs\\CategoriaDTO.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\DTOs\\CategoriaDTO.cs",
+              "RelativeToolTip": "ApiEncode2\\DTOs\\CategoriaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:21:16.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\DTOs\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "ApiEncode2\\DTOs\\ProductoDTO.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\DTOs\\ProductoDTO.cs",
+              "RelativeToolTip": "ApiEncode2\\DTOs\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:20:42.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "ApiEncode2\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "ApiEncode2\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:10:31.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ApiEncode2\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "ApiEncode2\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T22:30:36.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250503153408_AgregarValidacionesCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Migrations\\20250503153408_AgregarValidacionesCategoria.cs",
+              "RelativeDocumentMoniker": "ApiEncode2\\Migrations\\20250503153408_AgregarValidacionesCategoria.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Migrations\\20250503153408_AgregarValidacionesCategoria.cs",
+              "RelativeToolTip": "ApiEncode2\\Migrations\\20250503153408_AgregarValidacionesCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:34:08.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "ApiEncode2\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Models\\Categoria.cs",
+              "RelativeToolTip": "ApiEncode2\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T22:07:58.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "ApiEncode2\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Models\\Producto.cs",
+              "RelativeToolTip": "ApiEncode2\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T22:08:14.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Program.cs",
+              "RelativeDocumentMoniker": "ApiEncode2\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Program.cs",
+              "RelativeToolTip": "ApiEncode2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T15:51:46.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "ApiEncode2\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "ApiEncode2\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwE8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:54:19.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Profiles\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "ApiEncode2\\Profiles\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Profiles\\AutoMapperProfile.cs",
+              "RelativeToolTip": "ApiEncode2\\Profiles\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:30:00.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiEncode2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\appsettings.json",
+              "RelativeToolTip": "ApiEncode2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T19:06:12.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250503151552_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Migrations\\20250503151552_Inicial.cs",
+              "RelativeDocumentMoniker": "ApiEncode2\\Migrations\\20250503151552_Inicial.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Migrations\\20250503151552_Inicial.cs",
+              "RelativeToolTip": "ApiEncode2\\Migrations\\20250503151552_Inicial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:15:53.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250503152327_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Migrations\\20250503152327_Inicial.cs",
+              "RelativeDocumentMoniker": "ApiEncode2\\Migrations\\20250503152327_Inicial.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Migrations\\20250503152327_Inicial.cs",
+              "RelativeToolTip": "ApiEncode2\\Migrations\\20250503152327_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:23:27.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250503153132_AgregarValidacionesCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Migrations\\20250503153132_AgregarValidacionesCategoria.cs",
+              "RelativeDocumentMoniker": "ApiEncode2\\Migrations\\20250503153132_AgregarValidacionesCategoria.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\Migrations\\20250503153132_AgregarValidacionesCategoria.cs",
+              "RelativeToolTip": "ApiEncode2\\Migrations\\20250503153132_AgregarValidacionesCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:31:32.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApiEncode2.csproj",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\ApiEncode2.csproj",
+              "RelativeDocumentMoniker": "ApiEncode2\\ApiEncode2.csproj",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\Api Proyecto Encode\\ApiEncode2\\ApiEncode2\\ApiEncode2.csproj",
+              "RelativeToolTip": "ApiEncode2\\ApiEncode2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T21:42:40.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

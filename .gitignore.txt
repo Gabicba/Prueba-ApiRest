@@ -1,0 +1,12 @@
+# Ignorar configuraciones de Visual Studio
+.vs/
+# Ignorar configuraciones de usuario
+*.user
+*.suo
+
+# Ignorar carpetas de compilación
+bin/
+obj/
+
+# Ignorar archivos temporales de Visual Studio
+*.vsidx
