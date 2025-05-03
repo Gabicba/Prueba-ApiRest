@@ -1,77 +1,69 @@
-API de Gestión de Productos y Categorías en ASP.NET Core 6
-Descripción
+#API de Gestión de Productos y Categorías en ASP.NET Core 6
+##Descripción
 Esta API RESTful está construida con ASP.NET Core 6 para gestionar la información de productos y categorías. Ofrece un conjunto de funcionalidades básicas como CRUD (Crear, Leer, Actualizar, Eliminar), validaciones, mapeo automático con AutoMapper y documentación interactiva a través de Swagger. La arquitectura sigue una estructura en capas para facilitar el mantenimiento y escalabilidad.
 
-Tecnologías Utilizadas
-.NET 6 para la creación de la API
+##Tecnologías Utilizadas
+- .NET 6 para la creación de la API
 
-Entity Framework Core para interacción con la base de datos
+- Entity Framework Core para interacción con la base de datos
 
-SQL Server (en lugar de MySQL) usando enfoque Code First
+- SQL Server (en lugar de MySQL) usando enfoque Code First
 
-AutoMapper para simplificar la conversión de datos entre capas
+- AutoMapper para simplificar la conversión de datos entre capas
 
-Swagger (Swashbuckle) para documentación y pruebas interactivas de la API
+- Swagger (Swashbuckle) para documentación y pruebas interactivas de la API
 
-DataAnnotations para validación de datos en los modelos
+- DataAnnotations para validación de datos en los modelos
 
-Guía de Ejecución
-Clona o extrae el proyecto en tu máquina local.
+##Guía de Ejecución
+1 Clona o extrae el proyecto en tu máquina local.
 
-Requisitos previos:
+2 Requisitos previos:
 
-Asegúrate de tener instalado .NET 6 SDK.
+_ Asegúrate de tener instalado .NET 6 SDK.
 
-Asegúrate de tener acceso a SQL Server.
+- Asegúrate de tener acceso a SQL Server.
 
-Configuración de la conexión a la base de datos:
+3 Configuración de la conexión a la base de datos:
 
-Abre el archivo appsettings.json y ajusta la cadena de conexión a tu base de datos SQL Server.
+- Abre el archivo appsettings.json y ajusta la cadena de conexión a tu base de datos SQL Server.
 
-Pasos para ejecutar el proyecto:
+4 Pasos para ejecutar el proyecto:
 
-Restaura los paquetes NuGet:
+- Restaura los paquetes NuGet:
 
-bash
-Copiar
-Editar
+
 dotnet restore
-Aplica las migraciones para crear la base de datos:
+- Aplica las migraciones para crear la base de datos:
 
-bash
-Copiar
-Editar
 dotnet ef migrations add InitialCreate
 dotnet ef database update
-Ejecuta la API:
+- Ejecuta la API:
 
-bash
-Copiar
-Editar
 dotnet run
-La API estará accesible en http://localhost:5000. Puedes interactuar con ella a través de Swagger en:
+5 La API estará accesible en http://localhost:5000. Puedes interactuar con ella a través de Swagger en:
 http://localhost:5000/swagger
 
-Endpoints
-Categorías
-GET /api/categorias: Obtiene la lista de todas las categorías registradas.
+##Endpoints
+##Categorías
+- GET /api/categorias: Obtiene la lista de todas las categorías registradas.
 
-GET /api/categorias/{id}: Obtiene detalles de una categoría por su ID.
+- GET /api/categorias/{id}: Obtiene detalles de una categoría por su ID.
 
-POST /api/categorias: Crea una nueva categoría.
+- POST /api/categorias: Crea una nueva categoría.
 
-DELETE /api/categorias/{id}: Elimina una categoría por su ID.
+- DELETE /api/categorias/{id}: Elimina una categoría por su ID.
 
-Productos
-GET /api/productos: Obtiene todos los productos almacenados.
+##Productos
+- GET /api/productos: Obtiene todos los productos almacenados.
 
-GET /api/productos/{id}: Obtiene los detalles de un producto específico.
+- GET /api/productos/{id}: Obtiene los detalles de un producto específico.
 
-POST /api/productos: Registra un nuevo producto en la base de datos.
+- POST /api/productos: Registra un nuevo producto en la base de datos.
 
-PUT /api/productos/{id}: Actualiza la información de un producto existente.
+- PUT /api/productos/{id}: Actualiza la información de un producto existente.
 
-DELETE /api/productos/{id}: Elimina un producto especificado por su ID.
+- DELETE /api/productos/{id}: Elimina un producto especificado por su ID.
 
-Contribuciones
-Si deseas mejorar este proyecto o agregar nuevas características, siéntete libre de forkearlo y enviar pull requests. ¡Toda contribución es bienvenida!
+##Contribuciones
+- Si deseas mejorar este proyecto o agregar nuevas características, siéntete libre de forkearlo y enviar pull requests. ¡Toda contribución es bienvenida!
