@@ -1,8 +1,8 @@
-#API de Gestión de Productos y Categorías en ASP.NET Core 6
-##Descripción
+# API de Gestión de Productos y Categorías en ASP.NET Core 6
+## Descripción
 Esta API RESTful está construida con ASP.NET Core 6 para gestionar la información de productos y categorías. Ofrece un conjunto de funcionalidades básicas como CRUD (Crear, Leer, Actualizar, Eliminar), validaciones, mapeo automático con AutoMapper y documentación interactiva a través de Swagger. La arquitectura sigue una estructura en capas para facilitar el mantenimiento y escalabilidad.
 
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - .NET 6 para la creación de la API
 
 - Entity Framework Core para interacción con la base de datos
@@ -15,7 +15,7 @@ Esta API RESTful está construida con ASP.NET Core 6 para gestionar la informaci
 
 - DataAnnotations para validación de datos en los modelos
 
-##Guía de Ejecución
+## Guía de Ejecución
 1 Clona o extrae el proyecto en tu máquina local.
 
 2 Requisitos previos:
@@ -44,8 +44,8 @@ dotnet run
 5 La API estará accesible en http://localhost:5000. Puedes interactuar con ella a través de Swagger en:
 http://localhost:5000/swagger
 
-##Endpoints
-##Categorías
+## Endpoints
+## Categorías
 - GET /api/categorias: Obtiene la lista de todas las categorías registradas.
 
 - GET /api/categorias/{id}: Obtiene detalles de una categoría por su ID.
@@ -54,7 +54,7 @@ http://localhost:5000/swagger
 
 - DELETE /api/categorias/{id}: Elimina una categoría por su ID.
 
-##Productos
+## Productos
 - GET /api/productos: Obtiene todos los productos almacenados.
 
 - GET /api/productos/{id}: Obtiene los detalles de un producto específico.
@@ -65,5 +65,5 @@ http://localhost:5000/swagger
 
 - DELETE /api/productos/{id}: Elimina un producto especificado por su ID.
 
-##Contribuciones
+## Contribuciones
 - Si deseas mejorar este proyecto o agregar nuevas características, siéntete libre de forkearlo y enviar pull requests. ¡Toda contribución es bienvenida!
