@@ -15,34 +15,6 @@ Esta API RESTful está construida con ASP.NET Core 6 para gestionar la informaci
 
 - DataAnnotations para validación de datos en los modelos
 
-## Guía de Ejecución
-1 Clona o extrae el proyecto en tu máquina local.
-
-2 Requisitos previos:
-
-_ Asegúrate de tener instalado .NET 6 SDK.
-
-- Asegúrate de tener acceso a SQL Server.
-
-3 Configuración de la conexión a la base de datos:
-
-- Abre el archivo appsettings.json y ajusta la cadena de conexión a tu base de datos SQL Server.
-
-4 Pasos para ejecutar el proyecto:
-
-- Restaura los paquetes NuGet:
-
-
-dotnet restore
-- Aplica las migraciones para crear la base de datos:
-
-dotnet ef migrations add InitialCreate
-dotnet ef database update
-- Ejecuta la API:
-
-dotnet run
-5 La API estará accesible en http://localhost:5000. Puedes interactuar con ella a través de Swagger en:
-http://localhost:5000/swagger
 
 ## Endpoints
 ## Categorías
@@ -65,5 +37,4 @@ http://localhost:5000/swagger
 
 - DELETE /api/productos/{id}: Elimina un producto especificado por su ID.
 
-## Contribuciones
-- Si deseas mejorar este proyecto o agregar nuevas características, siéntete libre de forkearlo y enviar pull requests. ¡Toda contribución es bienvenida!
+
